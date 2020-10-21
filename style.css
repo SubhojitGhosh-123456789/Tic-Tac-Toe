@@ -1,0 +1,41 @@
+.cell{
+  background-color: #047ced;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  font-size: 100px;
+  color: white;
+  text-align: center;
+  line-height: 200px;
+}
+#main{
+  min-height: 100%;
+  min-height: 100vh;
+ 
+  display: flex;
+  align-items: center;
+}
+h1{
+  color: rgb(0, 0, 224);
+  position: absolute;
+  left: 850px;
+ top: 10px;
+}
+h2{
+  color: rgb(0, 17, 75);
+  position: absolute;
+  left: 820px;
+ top: 70px;
+}
+h3{
+  color: rgb(255, 0, 0);
+  position: absolute;
+  left: 800px;
+ top: 800px;
+}
+h4{
+  color: rgb(0, 0, 0);
+  position: absolute;
+  left: 750px;
+  top: 850px;
+}
